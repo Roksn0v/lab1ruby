@@ -5,4 +5,4 @@
 #Important notes
 -
 #Self-checks
--
+- [] Code is linted
